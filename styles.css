@@ -1,0 +1,39 @@
+.footer{
+  background: #aeb1f5;
+  font-style: italic;
+  width: 500px;
+}
+
+.footer__title{
+   text-align: center;
+}
+
+.footer__text{
+  color: #00872b;
+}
+
+.header{
+  background: #fcd9f8;
+  width: 500px;
+}
+
+.header__title{
+   text-align: center;
+}
+
+.header__text{
+  color: #0400ff;
+}
+
+.section{
+  background: #aeeaf5;
+  width: 500px;
+}
+
+.section__title{
+   text-align: center;
+}
+
+.section__text{
+  color: #f00;
+}
